@@ -1,0 +1,9 @@
+recursive-include doc_src *
+recursive-include docs *
+
+recursive-include admin-fields/media *
+recursive-include admin-fields/templates *
+
+include LICENSE
+include README
+include *.txt
